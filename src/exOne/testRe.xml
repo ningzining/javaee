@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<gongsi> 
+  <yewuqingdan> 
+    <chanpin>抽纸</chanpin>  
+    <jiage>20</jiage>  
+    <shuliang>20000</shuliang>  
+    <gongyings>中信城</gongyings> 
+  </yewuqingdan>  
+  <yewuqingdan> 
+    <chanpin>眼镜</chanpin>  
+    <jiage>200</jiage>  
+    <shuliang>4000</shuliang>  
+    <gongyings>宝岛</gongyings> 
+  </yewuqingdan> 
+</gongsi>
